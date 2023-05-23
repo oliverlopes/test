@@ -6,3 +6,7 @@ Kinesis
 Glue
 Lamda
 SQS
+
+python includes:
+Pandas
+Pyspark
